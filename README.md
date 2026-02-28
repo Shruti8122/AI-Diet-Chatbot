@@ -12,10 +12,9 @@ The chatbot provides personalized dietary guidance and maintains user-specific c
 https://ai-diet-chatbot-f56g.onrender.com
 
 
-Test endpoints:
+🚀 Demo:
 
-https://ai-diet-chatbot-f56g.onrender.com/
-https://ai-diet-chatbot-f56g.onrender.com/chat
+https://ai-diet-chatbot-f56g.onrender.com/docs
 
 
 ---
