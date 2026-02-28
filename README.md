@@ -1,4 +1,4 @@
-# 🥗 Diet Specialist Chatbot API
+# 🥗 Diet Specialist AI Chatbot API
 
 An AI-powered Diet Specialist Chatbot built using **FastAPI**, **Groq LLM**, and **MongoDB Atlas**.
 The chatbot provides personalized dietary guidance and maintains user-specific chat history with persistent memory.
@@ -9,16 +9,14 @@ The chatbot provides personalized dietary guidance and maintains user-specific c
 
 🚀 Deployed on: Render
 
-```
 https://ai-diet-chatbot-f56g.onrender.com
-```
+
 
 Test endpoints:
 
-```
 https://ai-diet-chatbot-f56g.onrender.com/
 https://ai-diet-chatbot-f56g.onrender.com/chat
-```
+
 
 ---
 
